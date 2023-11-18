@@ -117,3 +117,5 @@ const data = [
   
     return professionCount;
   }
+
+  //apple banaa
